@@ -5,7 +5,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: "#FF5733", // Example custom color
+        primary: "#FF5733",
       },
       fontFamily: {
         custom: ["Poppins", "sans-serif"],
